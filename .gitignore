@@ -1,0 +1,4 @@
+logs/
+#add all files to be ignored
+*.log 
+#all log extension files ignored
